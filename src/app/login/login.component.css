@@ -1,0 +1,17 @@
+/* .custom-button {
+  width: 300px;
+  height: 50px;
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+.img_bgrnd {
+  width: 100%;
+  height: fit-content;
+}
